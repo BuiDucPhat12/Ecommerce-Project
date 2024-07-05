@@ -6,6 +6,8 @@ In the realm of modern data analytics, leveraging robust platforms like Google B
 ### 1.2: Dataset
 dataset includes 1 public table ga_sessions_20170801 on Bigquery
 Fields that need attention
+| Field Name | Data Type | Description |
+| :—– | :———- | :————– |
 | fullVisitorId	| STRING | The unique visitor ID. |
 | date | STRING |The date of the session in YYYYMMDD format. |
 | totals | RECORD | This section contains aggregate values across the session. |
