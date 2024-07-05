@@ -23,7 +23,7 @@ Fields that need attention
 ![image](https://github.com/BuiDucPhat12/Ecommerce-Project/assets/174614831/a10be902-e838-4ed9-b23c-dcbdd0279fc2)
 
 5. Average number of transactions per user that made a purchase in July 2017
-![image](https://github.com/BuiDucPhat12/Ecommerce-Project/assets/174614831/ebfbf7a7-b98f-46b0-a545-9b3a700c863e)
+![image](https://github.com/BuiDucPhat12/Ecommerce-Project/assets/174614831/aea90927-8ec9-479a-a480-210de131b1f2)
 
 6. Average amount of money spent per session. Only include purchaser data in July 2017
 ![image](https://github.com/BuiDucPhat12/Ecommerce-Project/assets/174614831/47c8c782-f040-4b86-9db3-fc10b05b9d9f)
