@@ -6,16 +6,9 @@ In the realm of modern data analytics, leveraging robust platforms like Google B
 ### 1.2: Dataset
 dataset includes 1 public table ga_sessions_20170801 on Bigquery
 Fields that need attention
-| Field Name | Data Type | Description |
+| STT | Cột 1 | Cột 2 |
 | :—– | :———- | :————– |
-| fullVisitorId	| STRING | The unique visitor ID. |
-| date | STRING |The date of the session in YYYYMMDD format. |
-| totals | RECORD | This section contains aggregate values across the session. |
-| totals.bounces |	INTEGER |	Total bounces (for convenience). For a bounced session, the value is 1, otherwise it is null. |
-| totals.hits |	INTEGER	| Total number of hits within the session. |
-| totals.pageviews |	INTEGER |	Total number of pageviews within the session. |
-| totals.visits |	INTEGER |	The number of sessions (for convenience). This value is 1 for sessions with interaction events. The value is null if there are no interaction events in the session. |
-| totals.transactions |	INTEGER |	Total number of ecommerce transactions within the session. |
-| trafficSource.source | STRING	| The source of the traffic source. Could be the name of the search engine, the referring hostname, or a value of the utm_source URL parameter. |
-| hits | RECORD |	This row and nested fields are populated for any and all types of hits. |
-| hits.eCommerceAction |	RECORD	| This section contains all of the ecommerce hits that occurred during the session. This is a repeated field and has an entry for each hit that was collected. |
+| 1 | Dòng 11 | Dòng 21 |
+| 2 | Dòng 12 | Dòng 22 |
+| 3 | Dòng 13 | Dòng 23 |
+| 4 | Dòng 14 | Dòng 24 |
